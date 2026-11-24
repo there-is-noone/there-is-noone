@@ -1,14 +1,16 @@
 # Kamil
 
-CS student at AGH University, Poland. I mostly write Python and C++, on Fedora Linux.
+CS student at AGH University, Poland, interested in Data Science and using tools to make life easier. I mostly write Python and C++, working on Fedora Linux.
+I'm looking into other languages like Rust and optimizing Data Analysis pipelines
+Looking to collaborate with curious minds willing to expand in new directions and create useful tools together
 
 ## Projects
 
 | Project | Status | About |
 |---|---|---|
 | [ChessProjects](https://github.com/there-is-noone/ChessProjects) | Active | Python chess analysis tooling built on Stockfish and `python-chess`. |
-| [todo-app](https://github.com/there-is-noone/todo-app) | Active | A to-do app in C++. |
-| [PrzeSpaceruj Kraków](https://github.com/Paweue32/HackYeah2026/) | Active | App built for HackYeah 2026 letting you find a suitable way to stroll throuhg the Kraków. |
+| [todo-app](https://github.com/there-is-noone/todo-app) | Active | A personal use to-do app in C++. |
+| [PrzeSpaceruj Kraków](https://github.com/Paweue32/HackYeah2026/) | Active | App built for HackYeah 2026 letting you find a suitable way to stroll through the Kraków. |
 | [Choir Splitter](https://github.com/there-is-noone/choir-splitter/) | Active | App for [Con Fuoco AGH](https://www.facebook.com/ConFuocoAGH) Allowing to create .mp3 files for each of the vocal parts separately extracted from the .pdf file or any other popular musical notation format |
 | [BitTorrent implementation](https://github.com/Paweue32/BezImienny) | Incoming | Our attempt at the BitTorrent implementation in modern C++ |
 
